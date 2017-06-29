@@ -1,6 +1,8 @@
 # Mongo-Replication-Script
 This is bat script which helps to create Mongo Services and set the replication on local machine. 
 
+![Screenshot](https://user-images.githubusercontent.com/2802393/27699908-891e18a4-5d19-11e7-890e-e9644707a464.png)
+
 ## Purpose 
 The purpose for this script is to create the 3 MongoDB services by setting different engine (inMemory, wiredTiger, Mmapv1)
 and enabling replication for the same  
